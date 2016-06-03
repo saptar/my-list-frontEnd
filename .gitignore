@@ -1,0 +1,6 @@
+# ignore node_module
+node_modules
+# ignore lib -- lib to be generated during compile time
+lib
+# ignore views -- views are html file to be used for standalone dev purposes.
+views
